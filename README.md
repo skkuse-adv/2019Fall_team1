@@ -14,7 +14,7 @@
 | Full Name   | GitHub ID | Email             | R&R |
 |-------------|-----------|-------------------|-----|
 | PHAM CONG VINH       | ilfsn       | vinhpham@g.skku.edu               | TBD |
-| 가태권       | TBW       | TBW               | TBD |
-| 전형준 | TBW       | TBW               | TBD |
-| VO VAN VI       | TBW    | TBW | TBD |
-| MWASINGA LUSUNGU       | TBW    | TBW | TBD |
+| KA TAE-KWON       | taek111       | rkxornjs@naver.com               | TBD |
+| JEON HYUNG-JOON | joonjeon       | helius.jeon@gmail.com               | TBD |
+| VO VAN VI       | VoVanVi    | vovanvi026@gmail.com | TBD |
+| MWASINGA LUSUNGU       | lusujosh    | lusujosh@gmail.com | TBD |
